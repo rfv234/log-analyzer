@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+c_engine/log_analyzer
+c_engine/main
+*.o
+results/
+data/heavy_server.log
